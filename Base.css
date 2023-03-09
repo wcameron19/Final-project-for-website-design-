@@ -1,0 +1,97 @@
+#header{width=30%; float: left; text-align: center;
+background-color: red ;
+}
+#index{width=30%; float: left;
+Background-color: blue;
+color: #eee;
+}
+#header1{width=30%; 
+float: left;
+Color: #eee ;
+Background-color: gray;
+
+}
+
+#header2 {width=30%; float: left;
+Color: #eee;
+Background-color: blue ;
+
+}
+#body{
+Color: #eee
+}
+#body2 {
+Color: #eee;
+}
+#Photos2 {
+Color: #eee;
+}
+
+#Duck1 {
+Background-Color: #50654D; Green
+}
+#Duck2 {
+Background-Color: #9C9177; 
+}
+#Duck3 {
+Background-Color: #655949;
+}
+#Deer1{
+Background-Color: #78866B;
+}
+#Deer2{
+Color: #eee;
+
+}
+#Deer3{
+Background-Color: #50654D; Green
+}
+#Fish1{
+background-color: #eee;
+width: 35%; 
+float: left;
+}
+#Fish2{
+Background-color: Gray;
+width: 35%;
+float: left;
+}
+nav{
+ 	background-color:#eee ;
+ 	overflow: hidden;
+}
+
+nav ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+nav li {
+float: left;
+}
+
+nav a {
+display: block;
+color: gray;
+text-align: center;
+padding: 30px 16px;
+text-decoration: none;
+}
+
+nav a:hover {
+background-color: #800bc4;
+}
+
+#contact{
+width: 40%; 
+float: left; 
+text-align: center;
+background-color: gray;
+}
+#contact1 {
+width: 40%; 
+float: left; 
+text-align: center;
+background-color: gray;
+}
